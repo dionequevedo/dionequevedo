@@ -1,9 +1,11 @@
 # Dione Quevedo
 My name is Dione Quevedo, I work as Quality Assurance.
+
 I have a degree in Hospital Management and a postgraduate degree in Software Engineering with a Focus on Quality.
 
 - 🔭 I’m currently working on Avanade
 - 🌱 I’m currently learning studying a postgraduate degree in Back End Development.
+
 
 ## Connect with me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0E76A8?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dionequevedo)
