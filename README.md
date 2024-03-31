@@ -15,6 +15,7 @@ I have a degree in Hospital Management and a postgraduate degree in Software Eng
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/55+51+981393452)
 [![TWitter](https://img.shields.io/badge/Twitter-FFF?style=for-the-badge&logo=twitter&logoColor=blue)](https://twitter.com/dionequevedo)
 [![Threads](https://img.shields.io/badge/Threads-FFF?style=for-the-badge&logo=threads&logoColor=blue)](https://threads.net/@dionequevedo)
+[![Facebook](https://img.shields.io/badge/Facebook-FFF?style=for-the-badge&logo=facebook&logoColor=blue)](https://www.facebook.com/dione.quevedo)
 
 
 ## Stacks
