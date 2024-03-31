@@ -5,7 +5,7 @@ I have a degree in Hospital Management and a postgraduate degree in Software Eng
 - 🔭 I’m currently working on Avanade
 - 🌱 I’m currently learning studying a postgraduate degree in Back End Development.
 
-## Conecte-se comigo
+## Connect with me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0E76A8?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dionequevedo)
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/dionequevedo)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dionequevedo)
