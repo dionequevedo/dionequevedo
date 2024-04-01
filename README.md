@@ -9,10 +9,11 @@ I have a degree in Hospital Management and a postgraduate degree in Software Eng
 
 ## Connect with me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0E76A8?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dionequevedo)
-[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/dionequevedo)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dionequevedo)
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:dione@quevedo.adm.br)
+[![E-mail](https://img.shields.io/badge/-Email-FFF?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:dione@quevedo.adm.br)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/55+51+981393452)
+[![Telegram](https://img.shields.io/badge/Telegram-white?style=for-the-badge&logo=telegram&logoColor=blue)](https://t.me/dionequevedo)
+[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/dionequevedo)
 [![TWitter](https://img.shields.io/badge/Twitter-FFF?style=for-the-badge&logo=twitter&logoColor=blue)](https://twitter.com/dionequevedo)
 [![Threads](https://img.shields.io/badge/Threads-FFF?style=for-the-badge&logo=threads&logoColor=blue)](https://threads.net/@dionequevedo)
 [![Facebook](https://img.shields.io/badge/Facebook-FFF?style=for-the-badge&logo=facebook&logoColor=blue)](https://www.facebook.com/dione.quevedo)
@@ -24,6 +25,7 @@ I have a degree in Hospital Management and a postgraduate degree in Software Eng
     <img align="center" alt="Python" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img align="center" alt="C#" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
     <img align="center" alt="JS" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" alt="SQL" height="60" width="60" src="https://img.shields.io/badge/SQL-orange">  
     <img align="center" alt="PostgreSQL" height="60" width="60" src="https://img.icons8.com/color/512/postgreesql.png">  
 </div>
 
