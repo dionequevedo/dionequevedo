@@ -10,7 +10,7 @@ I have a degree in Hospital Management and a postgraduate degree in Software Eng
 ## Connect with me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0E76A8?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dionequevedo)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dionequevedo)
-[![E-mail](https://img.shields.io/badge/-Email-FFF?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:dione@quevedo.adm.br)
+[![E-mail](https://img.shields.io/badge/-Email-FFF?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:dione@dionequevedo.com.br)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/55+51+981393452)
 [![Telegram](https://img.shields.io/badge/Telegram-white?style=for-the-badge&logo=telegram&logoColor=blue)](https://t.me/dionequevedo)
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/dionequevedo)
