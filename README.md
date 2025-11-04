@@ -4,7 +4,7 @@ Meu nome é Dione Quevedo, trabalho como Engenheiro de Qualidade.
 Sou graduado em Gestão Hospitalar e pós-graduado em Engenharia de Software com Ênfase em Qualidade e Testes.
 
 - 🔭 Atualmente trabalho na Avanade
-- 🌱 Estou me aperfeiçoando em desenvolvimento mobile, especialmente em Type Script e React Native com intuíto de migrar de área.
+- 🌱 Atualmente estou me aperfeiçoando em Type Script e Playwright para ampliar meus conhecimentos.
 
 ## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0E76A8?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dionequevedo)
