@@ -1,4 +1,4 @@
-# Dione Quevedo
+# Dione Araujo Quevedo
 Meu nome é Dione Quevedo, trabalho como Engenheiro de Qualidade.
 
 Sou graduado em Gestão Hospitalar e pós-graduado em Engenharia de Software com Ênfase em Qualidade e Testes.
